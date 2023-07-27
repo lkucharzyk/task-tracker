@@ -3,7 +3,7 @@
     {
       "text": "asdsa",
       "day": "111",
-      "reminder": false,
+      "reminder": true,
       "id": 1
     },
     {
@@ -15,7 +15,7 @@
     {
       "text": "aads",
       "day": "333",
-      "reminder": false,
+      "reminder": true,
       "id": 3
     }
   ]
